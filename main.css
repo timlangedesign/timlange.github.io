@@ -185,7 +185,7 @@ header .content p.subscribe img {
   border-radius: 28px;
   background-color: #ab3015;
   background-size: 32px;
-  background-repeat: none;
+  background-repeat: no-repeat;
 }
 #actions a:hover {
   opacity: 0.75;
